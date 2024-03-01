@@ -1,1 +1,1 @@
-Hajimete no GIT purjoekuto!
+Hajimete no GIT purojekuto!
